@@ -1,3 +1,5 @@
+# JOIN DISCORD FOR MORE RESOURCES : https://discord.gg/BxyB8QQ3yf
+
 # zlexif-blipscreator
 simple drag and drop resource.
 
