@@ -1,4 +1,3 @@
--- main.lua or similar
 QBCore = exports['qb-core']:GetCoreObject()
 
 local function CreateBlips()
